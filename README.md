@@ -32,6 +32,7 @@
 ![](https://img.shields.io/badge/React-%20-blue?style=flat&logo=react&color=61dafb&logoColor=white)
 ![](https://img.shields.io/badge/Redux-%20-blue?style=flat&logo=redux&color=764abc)
 ![](https://img.shields.io/badge/Next-%20-black?style=flat&logo=next.js)
+![](https://img.shields.io/badge/AngularJS-%20-red?style=flat&logo=angular&logoColor=red)
 
 ![](https://img.shields.io/badge/Jest-%20-black?style=flat&logo=jest&color=c21325)
 ![](https://img.shields.io/badge/Testing%20Library-%20-black?style=flat&logo=testing-library&color=e33332&logoColor=white)
