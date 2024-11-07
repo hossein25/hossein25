@@ -46,6 +46,7 @@
 
 ![](https://img.shields.io/badge/NodeJS-%20-black?style=flat&logo=Node.js&color=339933&logoColor=white)
 ![](https://img.shields.io/badge/NestJS-%20-black?style=flat&logo=nestjs&color=red&logoColor=white)
+![](https://img.shields.io/badge/Express-%20-white?style=flat&logo=express&logoColor=white)
 
 ![](https://img.shields.io/badge/PostreSQL-%20-black?style=flat&logo=postgresql&color=336791&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-%20-black?style=flat&logo=MongoDb&color=47A248&logoColor=white)
