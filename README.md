@@ -1,6 +1,8 @@
 # ✨ Hey!, I'm Hossein
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-meysami/ target="_blank")
+<a href="https://www.linkedin.com/in/hossein-meysami" target="_blank">
+  ![](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin&logoColor=white)
+</a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%20-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:hmeysami.nia@gmail.com)
 
 ### I'm Hossein, a Frontend Developer. I bring a wealth of knowledge and skills to the table. My proficiency spans all stages of web development, from designing intuitive user interfaces to rigorous testing and debugging. I specialize in creating and maintaining robust front-end systems that enhance user experiences and drive engagement. I’m always interested and willing to find solutions to the problems I encounter doing my work.
