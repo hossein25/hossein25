@@ -44,6 +44,7 @@
 ![](https://img.shields.io/badge/MaterialUI-%20-black?style=flat&logo=mui&color=1572b6&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-%20-black?style=flat&logo=bootstrap&color=1572b6&logoColor=white)
 ![](https://img.shields.io/badge/styled%20components-%20-black?style=flat&logo=styled-components&color=db7093&logoColor=white)
+![](https://img.shields.io/badge/Tailwindcss-%20-cyan?style=flat&logo=tailwindcss&logoColor=cyan)
 
 ![](https://img.shields.io/badge/NodeJS-%20-black?style=flat&logo=Node.js&color=339933&logoColor=white)
 ![](https://img.shields.io/badge/NestJS-%20-black?style=flat&logo=nestjs&color=red&logoColor=white)
